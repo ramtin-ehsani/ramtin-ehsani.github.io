@@ -1,10 +1,10 @@
 +++
-title = "Research Projects"
+title = "Research Experience"
 author = "Gabor Parti"
 date = "2022-09-01"
 plotly = "true"
 +++
 
-[<i class="fa fa-graduation-cap" aria-hidden="true"></i> **Spices & Spice Terminology Database**](https://partigabor.github.io/spice/)
+[<i class="fa fa-graduation-cap" aria-hidden="true"></i> **SOAR Lab**](https://soar-lab.github.io/)
 
-> Based on my PhD dissertation about the diffusion of spice names.
+>  Researching software engineering to enhance tools and environments for software engineers using data mining, NLP, and machine learning techniques.

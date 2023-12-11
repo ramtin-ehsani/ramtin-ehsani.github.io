@@ -1,18 +1,22 @@
 +++
 title = "Publications"
-author = "Gabor Parti"
+author = "Ramtin Ehsani"
 date = "2022-09-01"
 +++
 
-* Parti, G. (2023). [*Mapping the Language of Spices A Corpus-Based, Philological Study on the Words of the Spice Domain*](https://theses.lib.polyu.edu.hk/handle/200/12389) [Ph.D. thesis]. The Hong Kong Polytechnic University. [<i class="ai ai-open-access ai-1x"></i>](https://theses.lib.polyu.edu.hk/handle/200/12389) [<i class="fa fa-1x fa-info-circle"></i>](/files/bib/thesis.bib "Bibfile")
+* **Ramtin Ehsani**, Rezvaneh Rezapour, and Preetha Chatterjee (2023). [*Exploring moral principles exhibited
+in oss: A case study on github heated issues.*](https://dl.acm.org/doi/abs/10.1145/3611643.3613077).  In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2023
 
-* Parti, G., Liesenfeld, A., & Huang, C.-R. (2021). [*Animosity and Suffering: Metaphors of BITTERNESS in English and Chinese.*](https://aclanthology.org/2021.paclic-1.74) Proceedings of the 35th Pacific Asia Conference on Language, Information and Computation, 700–710. [<i class="ai ai-open-access ai-1x"></i>](https://aclanthology.org/2021.paclic-1.74) [<i class="fa fa-1x fa-info-circle"></i>](/files/bib/parti_animosity_2021.bib "Bibfile")
+* Layla Bouzoubaa, **Ramtin Ehsani**, Preetha Chatterjee, and Rezvaneh Rezapour. (2021). [*The evolution
+of substance use coverage in the philadelphia inquirer*](https://arxiv.org/abs/2307.01299) 2023
 
-* Liesenfeld, A., Parti, G., & Huang, C.-R. (2021b). [*Scikit-Talk: A Toolkit for Processing Real-world Conversational Speech Data.*](https://aclanthology.org/2021.sigdial-1.26) Proceedings of the 22nd Annual Meeting of the Special Interest Group on Discourse and Dialogue, 252–256. [<i class="ai ai-open-access ai-1x"></i>](https://aclanthology.org/2021.sigdial-1.26) [<i class="fa fa-1x fa-info-circle"></i>](/files/bib/liesenfeld_scikit-talk_2021.bib "Bibfile")
+* Mohammad Ilbeigi, Azita Morteza, and **Ramtin Ehsani**. [*Emergency management in smart cities:
+Infrastructure-less communication systems.*](https://ascelibrary.org/doi/abs/10.1061/9780784483961.028) In Construction Research Congress 2022, pages
+263–271, 2022.
 
-* Liesenfeld, A., Parti, G., & Huang, C. (2021a). [*Deep Learning Meets Private Talk: Conversational AI Can Predict Speaker Traits by Eavesdropping for Only 30 Seconds.*](https://doi.org/10.1145/3473856.3474012) Mensch Und Computer 2021, 547–551. [<i class="ai ai-open-access ai-1x"></i>](https://doi.org/10.1145/3473856.3474012) [<i class="fa fa-1x fa-info-circle"></i>](/files/bib/liesenfeld_deep_2021.bib "Bibfile")
-
-* Liesenfeld, A., Parti, G., Hsu, Y.-Y., & Huang, C.-R. (2020). [*Predicting Gender and Age Categories in English Conversations Using Lexical, Non-Lexical, and Turn-Taking Features.*](https://aclanthology.org/2020.paclic-1.19) Proceedings of the 34th Pacific Asia Conference on Language, Information and Computation, 157–166. [<i class="ai ai-open-access ai-1x"></i>](https://aclanthology.org/2020.paclic-1.19) [<i class="fa fa-1x fa-info-circle"></i>](/files/bib/liesenfeld_predicting_2020.bib "Bibfile")
+* Mohammad Ilbeigi, Azita Morteza, and **Ramtin Ehsani** [*An infrastructure-less emergency
+communication system: A blockchain-based framework.*](https://ascelibrary.org/doi/full/10.1061/(ASCE)CP.1943-5487.0001011) Journal of Computing in Civil Engineering,
+volume 36, page 04021041, 2022.
 
 {{% center %}}
 <i class="fa fa-cog fa-spin fa-2x fa-fw"></i>

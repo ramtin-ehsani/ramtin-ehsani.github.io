@@ -1,8 +1,8 @@
 +++
 title = "Contact"
-author = "Gabor Parti"
+author = "Ramtin Ehsani"
 date = "2022-09-01"
 +++
 
-Email: gabor.parti at connect.polyu.hk
+Email: ramtin.ehsani at drexel.edu
 
