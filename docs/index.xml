@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramtin Ehsani</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Ramtin Ehsani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Build and Host a Website with Hugo</title>
+      <link>http://localhost:1313/posts/hugo-website/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo-website/</guid>
+      <description>This is a concise, step-by-step guide on how to build a website - just like this one - with Hugo, and host it on Github. Follow the steps and check out the links for further explanation on each component. This guide is made for non-experts, because I found most Hugo tutorials utterly useless and sparse for people new to computers web-development.&#xA;It might look daunting at first to go through all these steps below, but the reward is that once you get it right, updating and maintaining your website will be incredibly fast and easy.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Welcome! I&amp;rsquo;m a Ph.D. student currently studying at Drexel University. My major is Computer Science. My research interests lie in the intersection of software engineering, machine learning, and NLP. I&amp;rsquo;m currently working as a reserach assistant in SOAR Lab.&#xA;Download CV (56 KB) Link to heading Education Link to heading 2023-present PhD in Computer Science, Drexel University | PA, USA&#xA;2018–2022 Bsc in Computer Engineering, Iran University of Science and Technology | Tehran, Iran</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Email: ramtin.ehsani at drexel.edu</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>Ramtin Ehsani, Rezvaneh Rezapour, and Preetha Chatterjee (2023). Exploring moral principles exhibited in oss: A case study on github heated issues.. In Proceedings of the 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2023&#xA;Layla Bouzoubaa, Ramtin Ehsani, Preetha Chatterjee, and Rezvaneh Rezapour. (2021). The evolution of substance use coverage in the philadelphia inquirer 2023&#xA;Mohammad Ilbeigi, Azita Morteza, and Ramtin Ehsani.</description>
+    </item>
+    <item>
+      <title>Research Experience</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>SOAR Lab&#xA;Researching software engineering to enhance tools and environments for software engineers using data mining, NLP, and machine learning techniques.</description>
+    </item>
+  </channel>
+</rss>
