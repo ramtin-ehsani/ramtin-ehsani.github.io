@@ -5,7 +5,7 @@ date = "2022-09-01"
 +++
 Welcome! I'm a Ph.D. student currently studying at Drexel University. My major is Computer Science. My research interests lie in the intersection of software engineering, machine learning, and NLP. I'm currently working as a reserach assistant in SOAR Lab.
 
-> ##### **[Download CV <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](/files/cv.pdf "Open/download Curriculum Vitae")**  (56 KB)
+> ##### **[Download CV <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](/files/cv.pdf "Open/download Curriculum Vitae")**
 
 ***
 
