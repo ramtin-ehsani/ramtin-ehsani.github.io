@@ -1,2 +1,2 @@
-# [https://partigabor.github.io](https://partigabor.github.io/)
-A professional, academic-oriented website made with Hugo.
+# Personal Website
+An academic-oriented website made with Hugo forked from [Here](https://partigabor.github.io/).
