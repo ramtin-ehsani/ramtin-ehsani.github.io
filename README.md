@@ -1,2 +1,2 @@
 # Personal Website
-An academic-oriented website made with Hugo forked from [Here](https://partigabor.github.io/).
+An academic-oriented website made with Hugo forked from [here](https://partigabor.github.io/).
