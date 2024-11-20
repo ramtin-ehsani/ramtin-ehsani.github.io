@@ -147,6 +147,8 @@
    */
   
   img {
+    width: 25rem !important;
+    border-radius: 10% !important;
     border-style: none;
   }
   
