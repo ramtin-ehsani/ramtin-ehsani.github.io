@@ -3,7 +3,8 @@ title = "About"
 author = "Gabor Parti"
 date = "2022-09-01"
 +++
-Welcome! I'm a Ph.D. student currently studying at Drexel University. My major is Computer Science. My research interests lie in the intersection of software engineering, machine learning, and NLP. I'm currently working as a reserach assistant in SOAR Lab.
+Hi! I'm a Ph.D. candidate currently studying at Drexel University. My major is Computer Science. I'm currently working as a reserach assistant in SOAR Lab, and my current focus is on automated program repair and utilizing large language models to enhance software engineering tasks, such as issue resolution. I am broadly interested in advancing AI-driven approaches for
+improving software tools and environments.
 
 > ##### **[Download CV <i class="fa fa-file-pdf-o" aria-hidden="true"></i>](/files/cv.pdf "Open/download Curriculum Vitae")**
 
