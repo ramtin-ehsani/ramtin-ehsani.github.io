@@ -112,6 +112,12 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
+name = "CV"
+icon = "fa fa-2x fa-file-pdf-o"
+weight = 1
+url = "files/cv.pdf"
+
+[[params.social]]
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
