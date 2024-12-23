@@ -4,6 +4,8 @@ author = "Ramtin Ehsani"
 date = "2022-09-01"
 +++
 
+* **Ramtin Ehsani**, Rezvaneh (Shadi) Rezapour, and Preetha Chatterjee (2025). [*Analyzing Toxicity in Open Source Software Communications Using Psycholinguistics and Moral Foundations Theory*](https://arxiv.org/abs/2412.13133). The 4th International Workshop on Natural Language‐based Software Engineering (NLBSE), co‐located with ICSE, Apr 2025
+
 * **Ramtin Ehsani**,  Mia Mohammad Imran, Robert Zita, Kostadin Damevski, and Preetha Chatterjee (2024). [*Incivility in open source projects: A comprehensive annotated dataset of locked github issue
 threads*](https://dl.acm.org/doi/10.1145/3643991.3644887).  In Proceedings of the 21st International Conference on Mining Software Repositories,
 MSR ’24
