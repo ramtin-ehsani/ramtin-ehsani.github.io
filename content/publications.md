@@ -4,6 +4,10 @@ author = "Ramtin Ehsani"
 date = "2022-09-01"
 +++
 
+* **Ramtin Ehsani**, Esteban Parra, Sonia Haiduc, and Preetha Chatterjee (2025). [*Hierarchical Knowledge Injection for Improving LLM-based Program Repair*](https://arxiv.org/abs/2506.24015). In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering. ASE 2025.
+
+* Yousab Grees, Polina Iaremchuk, **Ramtin Ehsani**, Esteban Parra, Preetha Chatterjee, and Sonia Haiduc (2025). [*AI-Powered Commit Explorer (APCE)*](https://arxiv.org/abs/2507.16063). In Proceedings of the 41st International Conference on Software Maintenance and Evolution. ICSME 2025.
+
 * **Ramtin Ehsani**, Sakshi Pathak, and Preetha Chatterjee (2025). [*Towards Detecting Prompt Knowledge Gaps for Improved LLM-guided Issue Resolution*](https://ieeexplore.ieee.org/document/11025628). In Proceedings of the 22nd International Conference on Mining Software Repositories. MSR 2025.
 
 * **Ramtin Ehsani**, Rezvaneh (Shadi) Rezapour, and Preetha Chatterjee (2025). [*Analyzing Toxicity in Open Source Software Communications Using Psycholinguistics and Moral Foundations Theory*](https://ieeexplore.ieee.org/document/11029382). The 4th International Workshop on Natural Language‐based Software Engineering (NLBSE 2025), co‐located with ICSE 2025.
