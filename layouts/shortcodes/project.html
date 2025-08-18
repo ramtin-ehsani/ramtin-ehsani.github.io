@@ -1,0 +1,15 @@
+<div style="border:1px solid #eee;border-radius:14px;padding:1rem;margin:1.5rem 0;text-align:center;">
+  {{ with .Get "img" }}
+    <img src="{{ . | relURL }}" alt="" 
+         style="width:70% !important;border-radius:10px !important;margin-bottom:.75rem;">
+  {{ end }}
+<h3 style="margin:.25rem 0;">{{ .Get "title" }}</h3>
+<p style="margin:.2rem 0; color:#666; font-style:italic; text-align: center;">{{ .Get "venue" }}</p>
+
+  <p><strong>What it is.</strong> {{ .Get "what" }}</p>
+  <p><strong>Why it matters.</strong> {{ .Get "why" }}</p>
+  <p style="text-align: center;">
+    {{ with .Get "paper" }}📄 <a href="{{ . }}" target="_blank">Paper</a>&nbsp;&nbsp;{{ end }}
+    {{ with .Get "code" }}💻 <a href="{{ . }}" target="_blank">Code</a>{{ end }}
+  </p>
+</div>
