@@ -14,8 +14,8 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-fontheading = "Raleway"
-fontbody = "Raleway"
+fontheading = "Arial"
+fontbody = "Arial"
 # Changing font here is not enough, also change in _variables.css
 
 author = "Ramtin Ehsani"
