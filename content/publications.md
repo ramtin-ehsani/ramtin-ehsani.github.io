@@ -6,6 +6,8 @@ date = "2022-09-01"
 
 * **Ramtin Ehsani**, Esteban Parra, Sonia Haiduc, and Preetha Chatterjee (2025). [*Hierarchical Knowledge Injection for Improving LLM-based Program Repair*](https://arxiv.org/abs/2506.24015). In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering. ASE 2025.
 
+* **Ramtin Ehsani**, Sakshi Pathak, Esteban Parra, Sonia Haiduc, and Preetha Chatterjee (2025). [*What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub*](https://arxiv.org/abs/2506.22390). Under minor revision in Emprical Software Engineering Journal. EMSE 2025.
+
 * Yousab Grees, Polina Iaremchuk, **Ramtin Ehsani**, Esteban Parra, Preetha Chatterjee, and Sonia Haiduc (2025). [*AI-Powered Commit Explorer (APCE)*](https://arxiv.org/abs/2507.16063). In Proceedings of the 41st International Conference on Software Maintenance and Evolution. ICSME 2025.
 
 * **Ramtin Ehsani**, Sakshi Pathak, and Preetha Chatterjee (2025). [*Towards Detecting Prompt Knowledge Gaps for Improved LLM-guided Issue Resolution*](https://ieeexplore.ieee.org/document/11025628). In Proceedings of the 22nd International Conference on Mining Software Repositories. MSR 2025.

@@ -31,7 +31,7 @@ plotly = "true"
 
 {{< project
    title="What Makes ChatGPT Effective for Software Issue Resolution?"
-   venue="Under Review"
+   venue="Under minor revision at Empirical Software Engineering"
    what="Analyzes a large corpus of developer–ChatGPT conversations to understand why developers seek help for software bugs and when these interactions lead to successful resolutions."
    why="Provides empirical insights into the qualities of effective developer–AI conversations for software problem solving."
    paper="https://arxiv.org/abs/2506.22390"
