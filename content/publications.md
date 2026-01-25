@@ -4,11 +4,14 @@ author = "Ramtin Ehsani"
 date = "2022-09-01"
 +++
 
+* **Ramtin Ehsani**, Sakshi Pathak, Shriya Rawal, Abdullah Al Mujahid, Mia Mohammad Imran, and Preetha Chatterjee
+ (2026). [*Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub*](https://arxiv.org/abs/2601.15195). In Proceedings of the 23rd International Conference on Mining Software Repositories. MSR 2026.
+
 * **Ramtin Ehsani**, Esteban Parra, Sonia Haiduc, and Preetha Chatterjee (2025). [*Hierarchical Knowledge Injection for Improving LLM-based Program Repair*](https://arxiv.org/abs/2506.24015). In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering. ASE 2025.
 
-* **Ramtin Ehsani**, Sakshi Pathak, Esteban Parra, Sonia Haiduc, and Preetha Chatterjee (2025). [*What Characteristics Make ChatGPT Effective for Software Issue Resolution? An Empirical Study of Task, Project, and Conversational Signals in GitHub Issues*](https://arxiv.org/abs/2506.22390). In Emprical Software Engineering Journal. EMSE 2025.
+* **Ramtin Ehsani**, Sakshi Pathak, Esteban Parra, Sonia Haiduc, and Preetha Chatterjee (2025). [*What Characteristics Make ChatGPT Effective for Software Issue Resolution? An Empirical Study of Task, Project, and Conversational Signals in GitHub Issues*](https://doi.org/10.1007/s10664-025-10745-8). In Emprical Software Engineering Journal. EMSE 2025.
 
-* Yousab Grees, Polina Iaremchuk, **Ramtin Ehsani**, Esteban Parra, Preetha Chatterjee, and Sonia Haiduc (2025). [*AI-Powered Commit Explorer (APCE)*](https://arxiv.org/abs/2507.16063). In Proceedings of the 41st International Conference on Software Maintenance and Evolution. ICSME 2025.
+* Yousab Grees, Polina Iaremchuk, **Ramtin Ehsani**, Esteban Parra, Preetha Chatterjee, and Sonia Haiduc (2025). [*AI-Powered Commit Explorer (APCE)*](https://ieeexplore.ieee.org/abstract/document/11186111). In Proceedings of the 41st International Conference on Software Maintenance and Evolution. ICSME 2025.
 
 * **Ramtin Ehsani**, Sakshi Pathak, and Preetha Chatterjee (2025). [*Towards Detecting Prompt Knowledge Gaps for Improved LLM-guided Issue Resolution*](https://ieeexplore.ieee.org/document/11025628). In Proceedings of the 22nd International Conference on Mining Software Repositories. MSR 2025.
 
