@@ -4,10 +4,13 @@ author = "Ramtin Ehsani"
 date = "2022-09-01"
 +++
 
-* **Ramtin Ehsani**, Sakshi Pathak, Shriya Rawal, Abdullah Al Mujahid, Mia Mohammad Imran, and Preetha Chatterjee
- (2026). [*Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub*](https://arxiv.org/abs/2601.15195). In Proceedings of the 23rd International Conference on Mining Software Repositories. MSR 2026.
+* **Ramtin Ehsani**, Shriya Rawal, Yuanfang Cai, and Preetha Chatterjee (2026). [*Faster Code, Deeper Debt? A Multivocal Literature Review on Technical Debt in LLM-Assisted Software Development*](https://dl.acm.org/doi/10.1145/3820165). In ACM Transactions on Software Engineering and Methodology Journal. TOSEM 2026.
 
-* **Ramtin Ehsani**, Esteban Parra, Sonia Haiduc, and Preetha Chatterjee (2025). [*Hierarchical Knowledge Injection for Improving LLM-based Program Repair*](https://arxiv.org/abs/2506.24015). In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering. ASE 2025.
+<!-- * Evan M. Forman, Charlotte J. Hagerman, Asher E. Hong, Zhuoran Huang, Hannah C. McCausland, Jasmine H. Sun, Lauren C. Taylor, Meghan L. Butryn, Preetha Chatterjee, **Ramtin Ehsani**, Nawal Syed (2026). [*Feasibility Study of an AI Chatbot-Powered Cognitive-Behavioral Lifestyle Modification Program*](https://doi.org/10.1093/abm/kaag038). In Annals of Behavioral Medicine Journal. 2026. -->
+
+* **Ramtin Ehsani**, Sakshi Pathak, Shriya Rawal, Abdullah Al Mujahid, Mia Mohammad Imran, and Preetha Chatterjee (2026). [*Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub*](https://arxiv.org/abs/2601.15195). In Proceedings of the 23rd International Conference on Mining Software Repositories. MSR 2026.
+
+* **Ramtin Ehsani**, Esteban Parra, Sonia Haiduc, and Preetha Chatterjee (2025). [*Hierarchical Knowledge Injection for Improving LLM-based Program Repair*](https://doi.org/10.1109/ASE63991.2025.00122). In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering. ASE 2025.
 
 * **Ramtin Ehsani**, Sakshi Pathak, Esteban Parra, Sonia Haiduc, and Preetha Chatterjee (2025). [*What Characteristics Make ChatGPT Effective for Software Issue Resolution? An Empirical Study of Task, Project, and Conversational Signals in GitHub Issues*](https://doi.org/10.1007/s10664-025-10745-8). In Emprical Software Engineering Journal. EMSE 2025.
 
