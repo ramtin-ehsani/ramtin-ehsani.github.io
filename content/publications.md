@@ -4,6 +4,8 @@ author = "Ramtin Ehsani"
 date = "2022-09-01"
 +++
 
+* **Ramtin Ehsani**, Irene Manotas, Saurabh Pujar, Luca Buratti, and Preetha Chatterjee (2026). [*How Do LLMs Read Bug Reports? An Empirical Study of Attention in LLMs for Automated Program Repair*](https://arxiv.org/abs/2607.25873). In Proceedings of the 41th IEEE/ACM International Conference on Automated Software Engineering. ASE 2026.
+
 * **Ramtin Ehsani**, Shriya Rawal, Yuanfang Cai, and Preetha Chatterjee (2026). [*Faster Code, Deeper Debt? A Multivocal Literature Review on Technical Debt in LLM-Assisted Software Development*](https://dl.acm.org/doi/10.1145/3820165). In ACM Transactions on Software Engineering and Methodology Journal. TOSEM 2026.
 
 <!-- * Evan M. Forman, Charlotte J. Hagerman, Asher E. Hong, Zhuoran Huang, Hannah C. McCausland, Jasmine H. Sun, Lauren C. Taylor, Meghan L. Butryn, Preetha Chatterjee, **Ramtin Ehsani**, Nawal Syed (2026). [*Feasibility Study of an AI Chatbot-Powered Cognitive-Behavioral Lifestyle Modification Program*](https://doi.org/10.1093/abm/kaag038). In Annals of Behavioral Medicine Journal. 2026. -->

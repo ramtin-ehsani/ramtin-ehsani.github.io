@@ -20,7 +20,7 @@
       <link>https://ramtin-ehsani.github.io/about/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://ramtin-ehsani.github.io/about/</guid>
-      <description>Hi! I’m a PhD candidate in Computer Science at Drexel University and a research assistant in the SOAR Lab. My research focuses on automated program repair, where I study how large language models can generate reliable, trustworthy program fixes. Beyond program repair, I am broadly interested in advancing AI-driven approaches that enhance issue resolution, developer productivity, and the reliability of software engineering tools.&#xA;Download CV Link to heading Education Link to heading 2023-present PhD in Computer Science, Drexel University | Philadelphia, USA</description>
+      <description>Hi! I&amp;rsquo;m a PhD candidate in Computer Science at Drexel University and a Research Assistant in the SOAR Lab. My research focuses on trustworthy AI for software engineering. I investigate how large language models and AI agents reason about software, and develop methods to improve their reliability, interpretability, and performance in automated program repair and code generation, and developer-facing AI tools. More broadly, I&amp;rsquo;m interested in building trustworthy AI systems through empirical evaluation and model analysis.</description>
     </item>
     <item>
       <title>Contact</title>
@@ -34,14 +34,14 @@
       <link>https://ramtin-ehsani.github.io/publications/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://ramtin-ehsani.github.io/publications/</guid>
-      <description>Ramtin Ehsani, Shriya Rawal, Yuanfang Cai, and Preetha Chatterjee (2026). Faster Code, Deeper Debt? A Multivocal Literature Review on Technical Debt in LLM-Assisted Software Development. In ACM Transactions on Software Engineering and Methodology Journal. TOSEM 2026. Ramtin Ehsani, Sakshi Pathak, Shriya Rawal, Abdullah Al Mujahid, Mia Mohammad Imran, and Preetha Chatterjee (2026). Where Do AI Coding Agents Fail? An Empirical Study of Failed Agentic Pull Requests in GitHub. In Proceedings of the 23rd International Conference on Mining Software Repositories.</description>
+      <description>Ramtin Ehsani, Irene Manotas, Saurabh Pujar, Luca Buratti, and Preetha Chatterjee (2026). How Do LLMs Read Bug Reports? An Empirical Study of Attention in LLMs for Automated Program Repair. In Proceedings of the 41th IEEE/ACM International Conference on Automated Software Engineering. ASE 2026.&#xA;Ramtin Ehsani, Shriya Rawal, Yuanfang Cai, and Preetha Chatterjee (2026). Faster Code, Deeper Debt? A Multivocal Literature Review on Technical Debt in LLM-Assisted Software Development. In ACM Transactions on Software Engineering and Methodology Journal.</description>
     </item>
     <item>
       <title>Research Projects</title>
       <link>https://ramtin-ehsani.github.io/projects/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://ramtin-ehsani.github.io/projects/</guid>
-      <description>SOAR Lab&#xA;I work in the SOAR Lab, where we advance software engineering with large language models and data-driven methods. Below are some of my recent projects and publications:&#xA;Hierarchical Knowledge Injection for LLM-based Program Repair ASE 2025&#xA;What it is. A layered retrieval pipeline (bug → repository → project) that supplies LLMs with the right level of context for the purpose of automated program repair.&#xA;Why it matters. Improves correctness across different bug types and shows which levels of context LLMs actually need to generate effective repairs.</description>
+      <description>SOAR Lab&#xA;I work in the SOAR Lab, where we advance software engineering with large language models and AI-driven methods. Below are some of my recent projects and publications:&#xA;How Do LLMs Read Bug Reports? Attention Analysis of LLMs ASE 2026&#xA;What it is. The first empirical study of how large language models allocate attention over bug rerports while repairing real-world software bugs, comparing model attention with developer reasoning.</description>
     </item>
   </channel>
 </rss>

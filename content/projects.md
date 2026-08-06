@@ -7,7 +7,25 @@ plotly = "true"
 
 [<i class="fa fa-graduation-cap" aria-hidden="true"></i> **SOAR Lab**](https://soar-lab.github.io/)
 
->  I work in the SOAR Lab, where we advance software engineering with large language models and data-driven methods. Below are some of my recent projects and publications:
+>  I work in the SOAR Lab, where we advance software engineering with large language models and AI-driven methods. Below are some of my recent projects and publications:
+
+{{< project
+   title="How Do LLMs Read Bug Reports? Attention Analysis of LLMs"
+   venue="ASE 2026"
+   what="The first empirical study of how large language models allocate attention over bug rerports while repairing real-world software bugs, comparing model attention with developer reasoning."
+   why="Shows that successful repairs rely on distributed attention to diagnostic information, while attention misallocation is a key factor behind repair failures, providing insights for more reliable and interpretable AI systems."
+   paper="https://arxiv.org/abs/2607.25873"
+   img="./proj7.png"
+>}}
+
+{{< project
+   title="A Multivocal Literature Review on Technical Debt in LLM-Assisted Software Development"
+   venue="TOSEM Journal 2026"
+   what="A multivocal literature review of 104 research papers and industry sources examining how LLM-assisted development introduces and amplifies technical debt."
+   why="Identifies emerging forms of technical debt unique to AI-assisted coding, highlights gaps in current evaluation methods, and outlines future directions for building more sustainable AI-powered software development."
+   paper="https://dl.acm.org/doi/10.1145/3820165"
+   img="./proj6.png"
+>}}
 
 {{< project
    title="Hierarchical Knowledge Injection for LLM-based Program Repair"
@@ -31,7 +49,7 @@ plotly = "true"
 
 {{< project
    title="What Characteristics Make ChatGPT Effective for Software Issue Resolution?"
-   venue="Empirical Software Engineering 2025"
+   venue="Empirical Software Engineering Journal 2025"
    what="Analyzes a large corpus of developer–ChatGPT conversations to understand why developers seek help for software bugs and when these interactions lead to successful resolutions."
    why="Provides empirical insights into the qualities of effective developer–AI conversations for software problem solving."
    paper="https://arxiv.org/abs/2506.22390"
